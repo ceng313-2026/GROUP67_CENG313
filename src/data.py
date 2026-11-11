@@ -1,1 +1,1 @@
-
+# Veri isleme fonksiyonlari
